@@ -15,7 +15,7 @@
           Alejandro Steinmetz
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>CV</div>
       </q-toolbar>
     </q-header>
 
